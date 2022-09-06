@@ -7,4 +7,4 @@ steps:
     commands:
       - cargo build --verbose --all
       - cargo test --verbose --all
-      - cargo run --verbose --all
+      - cargo run --verbose --all-features
